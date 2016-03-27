@@ -1,6 +1,6 @@
 {
   "name": "yo-yo-counter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "app/index.js",
   "private": "true",
   "repository": {
